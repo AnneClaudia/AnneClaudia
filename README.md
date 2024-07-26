@@ -25,3 +25,10 @@
   </tr>
 </table>
 </br>
+
+## Mobile Back-End Badges
+<div float="left">
+<img src = "https://github.com/user-attachments/assets/7746597e-0a6a-4434-9973-a00b9d0105ee.png" witdh="100px" height="100px"/>
+<img src = "https://github.com/user-attachments/assets/fda90e1a-da50-48f5-85f4-bd690e271850.png" witdh="100px" height="100px"/>
+<img src = "https://github.com/user-attachments/assets/f4cef624-e252-4d5b-baba-139145a486c3.png" witdh="100px" height="100px"/>
+</div>
