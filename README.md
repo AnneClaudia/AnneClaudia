@@ -26,9 +26,95 @@
 </table>
 </br>
 
-## Mobile Back-End Badges
-<div float="left">
-<img src = "https://github.com/user-attachments/assets/7746597e-0a6a-4434-9973-a00b9d0105ee.png" witdh="100px" height="100px"/>
-<img src = "https://github.com/user-attachments/assets/fda90e1a-da50-48f5-85f4-bd690e271850.png" witdh="100px" height="100px"/>
-<img src = "https://github.com/user-attachments/assets/f4cef624-e252-4d5b-baba-139145a486c3.png" witdh="100px" height="100px"/>
-</div>
+## Back-End Badges
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <div align="center">
+      <img src="https://github.com/user-attachments/assets/2a6eaf38-2d04-43ca-96e2-669e7676f962" width="100" height="100" alt="BackEndSP">
+      <p>Back-End SP <br/> 2021</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+      <img src="https://github.com/user-attachments/assets/daf1715c-0ab3-44e0-9b12-27bea3723c30" width="100" height="100" alt="BackEndCarrefour">
+      <p>Back-End Carrefour </br> 2021</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+      <img src="https://github.com/user-attachments/assets/c75f6866-c3a5-45ae-95e3-c8d2e6f6268a" width="100" height="100" alt="backend_kotlin_tqi" >
+      <p>Back-End Kotlin TQI <br/> 2023</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+
+
+## Java Badges
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <div align="center">
+     <img src="https://github.com/user-attachments/assets/c9223f48-8110-48da-8823-aac06f54384d" width="100" height="100" alt="Cognizant Java Developer">
+      <p>Cognizant Java Developer <br/> 2022</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+     <img src="https://github.com/user-attachments/assets/2007f47e-baa1-4503-86c0-78c7ebf98420" width="100" height="100" alt="Amdocs Java Developer">
+      <p>Amdocs Java Developer <br/> 2022</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+      <img src="https://github.com/user-attachments/assets/d541abd3-47da-4c23-a71d-21744613c3d9" width="100" height="100" alt="GFT Start">
+      <p>GFT Start <br/> 2022</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+      <img src="https://github.com/user-attachments/assets/2fb7c71f-9277-429d-ba54-1efb58439bf2" width="100" height="100" alt="Woman Developer"> 
+      <p>Woman Developer <br/> 2022</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+## Fullstack Badges
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <div align="center">
+     <img src="https://github.com/user-attachments/assets/40f6bb5e-f95f-4912-b2e2-2d0dd82524f9" width="100" height="100" alt="Code Like Fullstack Girl">
+      <p>Code Like Fullstack Girl <br/> 2020</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+     <img src="https://github.com/user-attachments/assets/be839cf5-fa67-4df7-9d2b-6002b04d0e85" width="100" height="100" alt="GFT">
+      <p>GFT <br/> 2020</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+      <img src="https://github.com/user-attachments/assets/e37d1c04-3169-464c-b065-dec4a657422b" width="100" height="100" alt="Eduzz Fullstack Developer 2">
+      <p>Eduzz Fullstack Developer 2 <br/> 2022</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+      <img src="https://github.com/user-attachments/assets/8b1885f5-1f87-42cd-8b23-51f7eb83af93" width="100" height="100" alt="MRV Fullstack Developer"> 
+      <p>MRV Fullstack Developer <br/> 2022</p>
+      </div>
+    </td>
+    <td style="text-align: center;">
+      <div align="center">
+      <img src="https://github.com/user-attachments/assets/0234a679-867b-4111-95ce-7a4eb3328b7a" width="100" height="100" alt="Take Blip Fullstack Developer 2"> 
+      <p>Take Blip Fullstack Developer 2 <br/> 2022</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
