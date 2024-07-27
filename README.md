@@ -11,7 +11,6 @@
 
 <br/>
 
-
 <table>
   <tr>
     <td valign="top"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnneClaudia&theme=dark"/></td>
@@ -25,6 +24,16 @@
   </tr>
 </table>
 </br>
+
+<div float="left">
+  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
+</div>
+<br/><br/>
 
 ## Back-End Badges
 <table>
