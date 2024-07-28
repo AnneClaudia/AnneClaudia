@@ -24,6 +24,18 @@
   </tr>
 </table>
 </br>
+</br>
+🎯 My main hard skills are:
+
+- Development of systems in Java
+- Development of systems in Python
+- Development of systems in PHP
+- Back-end development with Kotlin
+- Back-end development NodeJS
+- Knowledge in SpringBoot
+<br/>
+
+## Hards Skills
 
 <div float="left">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
@@ -34,6 +46,16 @@
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
 </div>
 <br/><br/>
+
+🎯 My main soft skills are:
+
+- Resilience
+- Empathy
+- Collaboration
+- Quick adaptation to changes
+- Emotional intelligence
+<br/><br/>
+<p>From 2020 to 2024, I will participate in several bootcamps to develop my skills as a Java, back-end and fullstack developer.</p>
 
 ## Back-End Badges
 <table>
