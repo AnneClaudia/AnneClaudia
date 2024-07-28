@@ -149,3 +149,4 @@
   </tr>
 </table>
 
+![snake animation](https://github.com/<AnneClaudia>/<AnneClaudia>/blob/output/github-contribution-grid-snake2.svg)
