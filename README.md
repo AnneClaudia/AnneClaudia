@@ -1,4 +1,4 @@
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portfolio%20Mobile%20em%20Desenvolvimento&color=7d93a6&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=Portfolio%20em%20Desenvolvimento&color=7d93a6&style=for-the-badge)
 
 
 
